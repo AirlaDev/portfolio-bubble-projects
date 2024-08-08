@@ -7,7 +7,7 @@ Projeto 1: Minha Carona (Em desenvolvimento)
 - **Descrição**: Plataforma web para compartilhamento de caronas, conectando motoristas e passageiros que compartilham o mesmo destino
 - **Funcionalidades**: Cadastro de usuários, Pesquisa por caronas, Solicitação e confirmação de caronas, Gestão de Pagamentos
 - **Tecnologias**: Bubble.io, figma.
-- **Link telas figma: [https://www.figma.com/file/K17GTM6XEl7x9SQCBbnaqi/Minha-Carona?type=design&node-id=0%3A1&mode=design&t=jJ2XiARDKpfn6ueB-1]
+- **Link telas figma**: [https://www.figma.com/file/K17GTM6XEl7x9SQCBbnaqi/Minha-Carona?type=design&node-id=0%3A1&mode=design&t=jJ2XiARDKpfn6ueB-1]
 - **Link de teste bubble**: [https://minha-carona-10841.bubbleapps.io/version-test]
 
 ### Projeto 2: Encaminhar.com (Em desenvolvimento)
